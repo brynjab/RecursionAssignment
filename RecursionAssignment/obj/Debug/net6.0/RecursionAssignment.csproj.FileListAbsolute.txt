@@ -1,0 +1,15 @@
+C:\Users\Kristo\Documents\Brynja\VisualStudio\RecursionAssignment\RecursionAssignment\obj\Debug\net6.0\RecursionAssignment.csproj.AssemblyReference.cache
+C:\Users\Kristo\Documents\Brynja\VisualStudio\RecursionAssignment\RecursionAssignment\obj\Debug\net6.0\RecursionAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristo\Documents\Brynja\VisualStudio\RecursionAssignment\RecursionAssignment\obj\Debug\net6.0\RecursionAssignment.AssemblyInfoInputs.cache
+C:\Users\Kristo\Documents\Brynja\VisualStudio\RecursionAssignment\RecursionAssignment\obj\Debug\net6.0\RecursionAssignment.AssemblyInfo.cs
+C:\Users\Kristo\Documents\Brynja\VisualStudio\RecursionAssignment\RecursionAssignment\obj\Debug\net6.0\RecursionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Kristo\Documents\Brynja\VisualStudio\RecursionAssignment\RecursionAssignment\bin\Debug\net6.0\RecursionAssignment.exe
+C:\Users\Kristo\Documents\Brynja\VisualStudio\RecursionAssignment\RecursionAssignment\bin\Debug\net6.0\RecursionAssignment.deps.json
+C:\Users\Kristo\Documents\Brynja\VisualStudio\RecursionAssignment\RecursionAssignment\bin\Debug\net6.0\RecursionAssignment.runtimeconfig.json
+C:\Users\Kristo\Documents\Brynja\VisualStudio\RecursionAssignment\RecursionAssignment\bin\Debug\net6.0\RecursionAssignment.dll
+C:\Users\Kristo\Documents\Brynja\VisualStudio\RecursionAssignment\RecursionAssignment\bin\Debug\net6.0\RecursionAssignment.pdb
+C:\Users\Kristo\Documents\Brynja\VisualStudio\RecursionAssignment\RecursionAssignment\obj\Debug\net6.0\RecursionAssignment.dll
+C:\Users\Kristo\Documents\Brynja\VisualStudio\RecursionAssignment\RecursionAssignment\obj\Debug\net6.0\refint\RecursionAssignment.dll
+C:\Users\Kristo\Documents\Brynja\VisualStudio\RecursionAssignment\RecursionAssignment\obj\Debug\net6.0\RecursionAssignment.pdb
+C:\Users\Kristo\Documents\Brynja\VisualStudio\RecursionAssignment\RecursionAssignment\obj\Debug\net6.0\RecursionAssignment.genruntimeconfig.cache
+C:\Users\Kristo\Documents\Brynja\VisualStudio\RecursionAssignment\RecursionAssignment\obj\Debug\net6.0\ref\RecursionAssignment.dll
