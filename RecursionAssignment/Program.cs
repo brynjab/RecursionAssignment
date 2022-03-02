@@ -30,6 +30,18 @@ namespace RecursionAssignment
                     return is_increasing(lst.GetRange(1, lst.Count - 1 ));
                 }
             }
+            /*
+            List<int> nums = new List<int>() { 1, 2, 3, 4 };
+
+
+            void filter_greater_than(List<int> nums, int n)
+            {
+                if(nums.Count == 0)
+                {
+                    return;
+                }
+            }
+            */
 
         }
     }
